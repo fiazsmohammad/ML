@@ -3,3 +3,4 @@
 2. Linear Rgression : Multiple variables
 3. Gradient descent
 4. Using Dummy Variables
+5. Logistic Regression - Binary Classification
