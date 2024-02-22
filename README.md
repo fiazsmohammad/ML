@@ -5,3 +5,4 @@
 4. Using Dummy Variables
 5. Logistic Regression - Binary Classification
 6. Logistic Regression - Multiclass Classification
+7. Decision Tree
