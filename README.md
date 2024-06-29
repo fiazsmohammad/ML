@@ -6,3 +6,4 @@
 5. Logistic Regression - Binary Classification
 6. Logistic Regression - Multiclass Classification
 7. Decision Tree
+8. Support Vector Machine
