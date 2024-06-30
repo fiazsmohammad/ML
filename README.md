@@ -7,3 +7,4 @@
 6. Logistic Regression - Multiclass Classification
 7. Decision Tree
 8. Support Vector Machine
+9. Random Forest Algorithm
