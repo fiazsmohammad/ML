@@ -8,3 +8,4 @@
 7. Decision Tree
 8. Support Vector Machine
 9. Random Forest Algorithm
+10. K-Means Clustering
