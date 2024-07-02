@@ -10,3 +10,4 @@
 9. Random Forest Algorithm
 10. K-Means Clustering
 11. Naive Bayes Classification
+12. KNN Classification
